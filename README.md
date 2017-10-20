@@ -2,5 +2,5 @@
 ---
 Start on 2017-10-15
 
-<a href="http://cncounter.duapp.com/">Ìì³¯¼ÆÊýÆ÷</a>
+<a href="http://cncounter.duapp.com/">è®¡æ•°å™¨</a>
 2017-10-20
